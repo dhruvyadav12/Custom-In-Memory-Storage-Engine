@@ -1,0 +1,28 @@
+# Build and binaries
+build/
+bin/
+*.exe
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# Snapshot and database dumps
+dump.tlv
+*.tmp
+*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
